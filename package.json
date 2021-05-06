@@ -82,6 +82,7 @@
     "follow-redirects": "^1.13.3",
     "forwarded": "^0.1.2",
     "fresh": "^0.5.2",
+    "fs": "*",
     "fs-extra": "^3.0.1",
     "fsevents": "^2.3.2",
     "get-caller-file": "^2.0.5",
